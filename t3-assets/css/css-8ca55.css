@@ -1,0 +1,24 @@
+
+
+/*===============================
+/templates/ja_decor/css/custom.css
+================================================================================*/
+
+
+
+/*===============================
+/templates/ja_decor/css/docs.css
+================================================================================*/
+.docs-section{margin-bottom:40px}.docs-section .page-header{margin-bottom:20px}.docs-section .page-header h1{font-size:42px}.example-type h1,.example-type h2,.example-type h3,.example-type h4,.example-type h5,.example-type h6{margin:20px 0}.example-colors .swatch-item{width:100%;min-height:100px;position:relative;background:#333333;color:#ffffff;margin-bottom:20px}.example-colors .swatch-item dl{width:100%;position:absolute;bottom:0;padding:20px;margin:0}.example-colors .color-brand-primary{background:#0b96f3}.example-colors .color-brand-secondary{background:#428bca}.example-colors .color-brand-success{background:#5cb85c}.example-colors .color-brand-danger{background:#d9534f}.example-colors .color-brand-warning{background:#f0ad4e}.example-colors .color-brand-info{background:#5bc0de}.example-colors .color-gray-darker{background:#222222}.example-colors .color-gray-dark{background:#333333}.example-colors .color-gray{background:#555555}.example-colors .color-gray-light{background:#999999;color:#333333}.example-colors .color-gray-lighter{background:#eeeeee;color:#333333}.example-colors .color-gray-lightest{background:#f7f7f7;color:#333333}.example-buttons .btn,.example-inputs .btn,.example-buttons .form-control,.example-inputs .form-control{width:100%;margin-bottom:20px}
+
+
+/*===============================
+/media/mod_vt_nivo_slider/css/nivo-slider.min.css
+================================================================================*/
+.nivoSlider{position:relative;width:100%;height:auto;overflow:hidden}.nivoSlider img{position:absolute;top:0;left:0;max-width:none}.nivo-main-image{display:block!important;position:relative!important;width:100%!important}.nivoSlider a.nivo-imageLink{position:absolute;top:0;left:0;width:100%;height:100%;border:0;padding:0;margin:0;z-index:6;display:none;background:white;filter:alpha(opacity=0);opacity:0}.nivo-slice{display:block;position:absolute;z-index:5;height:100%;top:0}.nivo-box{display:block;position:absolute;z-index:5;overflow:hidden}.nivo-box img{display:block}.nivo-caption{position:absolute;left:0;bottom:0;background:#000;color:#fff;width:100%;z-index:8;padding:5px 10px;opacity:.8;overflow:hidden;display:none;-moz-opacity:.8;filter:alpha(opacity=8);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.nivo-caption p{padding:5px;margin:0}.nivo-caption a{display:inline!important}.nivo-html-caption{display:none}.nivo-directionNav a{position:absolute;top:45%;z-index:9;cursor:pointer}.nivo-prevNav{left:0}.nivo-nextNav{right:0}.nivo-controlNav{text-align:center;padding:15px 0}.nivo-controlNav a{cursor:pointer}.nivo-controlNav a.active{font-weight:bold}
+
+
+/*===============================
+/media/mod_vt_nivo_slider/themes/orman/orman.css
+================================================================================*/
+.theme-orman.slider-wrapper{background:url(/media/mod_vt_nivo_slider/themes/orman/slider.png) no-repeat;width:722px;height:337px;margin:0 auto;padding-top:18px;position:relative}.theme-orman .nivoSlider{overflow:visible;width:568px;height:268px;margin-left:77px;background:url(/media/mod_vt_nivo_slider/themes/orman/loading.gif) no-repeat 50% 50%}.theme-orman .nivoSlider img{display:none;width:568px; }.theme-orman .nivoSlider a{border:0;display:block} .theme-orman .nivo-controlNav{position:absolute;left:50%;bottom:0;margin-left:-30px; }.theme-orman .nivo-controlNav a{display:block;width:10px;height:10px;background:url(/media/mod_vt_nivo_slider/themes/orman/bullets.png) no-repeat;text-indent:-9999px;border:0;margin-right:7px;float:left}.theme-orman .nivo-controlNav a.active{background-position:0 -10px} .theme-orman .nivo-directionNav a{display:block;width:25px;height:200px;background:url(/media/mod_vt_nivo_slider/themes/orman/arrows.png) no-repeat 0% 50%;text-indent:-9999px;border:0;top:40px}.theme-orman a.nivo-nextNav{background-position:100% 50%;right:-40px;padding-right:20px}.theme-orman a.nivo-prevNav{left:-40px;padding-left:20px} .theme-orman .nivo-caption{font-family:Helvetica,Arial,sans-serif}.theme-orman .nivo-caption a{color:#fff;border-bottom:1px dotted #fff;text-decoration:none}.theme-orman .nivo-caption a:hover{color:#fff;border-bottom:1px solid #fff}.theme-orman .nivo-heading{text-transform:uppercase;font-weight:bold} .theme-orman .ribbon{background:url(/media/mod_vt_nivo_slider/themes/orman/ribbon.png) no-repeat;width:111px;height:111px;position:absolute;top:-3px;left:56px;z-index:300}

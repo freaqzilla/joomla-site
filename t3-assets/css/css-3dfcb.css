@@ -1,0 +1,24 @@
+
+
+/*===============================
+/templates/ja_decor/css/custom.css
+================================================================================*/
+
+
+
+/*===============================
+/templates/ja_decor/css/docs.css
+================================================================================*/
+.docs-section{margin-bottom:40px}.docs-section .page-header{margin-bottom:20px}.docs-section .page-header h1{font-size:42px}.example-type h1,.example-type h2,.example-type h3,.example-type h4,.example-type h5,.example-type h6{margin:20px 0}.example-colors .swatch-item{width:100%;min-height:100px;position:relative;background:#333333;color:#ffffff;margin-bottom:20px}.example-colors .swatch-item dl{width:100%;position:absolute;bottom:0;padding:20px;margin:0}.example-colors .color-brand-primary{background:#0b96f3}.example-colors .color-brand-secondary{background:#428bca}.example-colors .color-brand-success{background:#5cb85c}.example-colors .color-brand-danger{background:#d9534f}.example-colors .color-brand-warning{background:#f0ad4e}.example-colors .color-brand-info{background:#5bc0de}.example-colors .color-gray-darker{background:#222222}.example-colors .color-gray-dark{background:#333333}.example-colors .color-gray{background:#555555}.example-colors .color-gray-light{background:#999999;color:#333333}.example-colors .color-gray-lighter{background:#eeeeee;color:#333333}.example-colors .color-gray-lightest{background:#f7f7f7;color:#333333}.example-buttons .btn,.example-inputs .btn,.example-buttons .form-control,.example-inputs .form-control{width:100%;margin-bottom:20px}
+
+
+/*===============================
+/media/mod_vt_nivo_slider/css/nivo-slider.min.css
+================================================================================*/
+.nivoSlider{position:relative;width:100%;height:auto;overflow:hidden}.nivoSlider img{position:absolute;top:0;left:0;max-width:none}.nivo-main-image{display:block!important;position:relative!important;width:100%!important}.nivoSlider a.nivo-imageLink{position:absolute;top:0;left:0;width:100%;height:100%;border:0;padding:0;margin:0;z-index:6;display:none;background:white;filter:alpha(opacity=0);opacity:0}.nivo-slice{display:block;position:absolute;z-index:5;height:100%;top:0}.nivo-box{display:block;position:absolute;z-index:5;overflow:hidden}.nivo-box img{display:block}.nivo-caption{position:absolute;left:0;bottom:0;background:#000;color:#fff;width:100%;z-index:8;padding:5px 10px;opacity:.8;overflow:hidden;display:none;-moz-opacity:.8;filter:alpha(opacity=8);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.nivo-caption p{padding:5px;margin:0}.nivo-caption a{display:inline!important}.nivo-html-caption{display:none}.nivo-directionNav a{position:absolute;top:45%;z-index:9;cursor:pointer}.nivo-prevNav{left:0}.nivo-nextNav{right:0}.nivo-controlNav{text-align:center;padding:15px 0}.nivo-controlNav a{cursor:pointer}.nivo-controlNav a.active{font-weight:bold}
+
+
+/*===============================
+/media/mod_vt_nivo_slider/themes/light/light.css
+================================================================================*/
+.theme-light.slider-wrapper{background:#fff;padding:10px}.theme-light .nivoSlider{position:relative;background:#fff url(/media/mod_vt_nivo_slider/themes/light/loading.gif) no-repeat 50% 50%;margin-bottom:10px;overflow:visible}.theme-light .nivoSlider img{position:absolute;top:0px;left:0px;display:none}.theme-light .nivoSlider a{border:0;display:block}.theme-light .nivo-controlNav{text-align:left;padding:0;position:relative;z-index:10}.theme-light .nivo-controlNav a{display:inline-block;width:10px;height:10px;background:url(/media/mod_vt_nivo_slider/themes/light/bullets.png) no-repeat;text-indent:-9999px;border:0;margin:0 2px}.theme-light .nivo-controlNav a.active{background-position:0 100%}.theme-light .nivo-directionNav a{display:block;width:30px;height:30px;background:url(/media/mod_vt_nivo_slider/themes/light/arrows.png) no-repeat;text-indent:-9999px;border:0;top:auto;bottom:-36px;z-index:11}.theme-light .nivo-directionNav a:hover{background-color:#eee;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}.theme-light a.nivo-nextNav{background-position:160% 50%;right:0px}.theme-light a.nivo-prevNav{background-position:-60% 50%;left:auto;right:35px}.theme-light .nivo-caption{font-family:Helvetica,Arial,sans-serif}.theme-light .nivo-caption a{color:#fff;border-bottom:1px dotted #fff}.theme-light .nivo-caption a:hover{color:#fff}.theme-light .nivo-controlNav.nivo-thumbs-enabled{width:80%}.theme-light .nivo-controlNav.nivo-thumbs-enabled a{width:auto;height:auto;background:none;margin-bottom:5px}.theme-light .nivo-controlNav.nivo-thumbs-enabled img{display:block;width:120px;height:auto}

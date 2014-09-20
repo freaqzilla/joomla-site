@@ -1,0 +1,120 @@
+/*
+# ------------------------------------------------------------------------
+# Extensions for Joomla 2.5.x - Joomla 3.x
+# ------------------------------------------------------------------------
+# Copyright (C) 2011-2013 Ext-Joom.com. All Rights Reserved.
+# @license - PHP files are GNU/GPL V2.
+# Author: Ext-Joom.com
+# Websites:  http://www.ext-joom.com 
+# Date modified: 20/08/2013 - 13:00
+# ------------------------------------------------------------------------
+*/
+
+.mod_ext_quick_contact_form_jquery {
+	margin:0 auto;
+	width: 100%;
+}
+
+#recaptcha_widget_div {
+	margin-left:110px;
+}
+.ext_quick_contact_form_jquery .blocks p {
+	margin-bottom:15px;
+	position:relative;
+}
+
+.ext_quick_contact_form_jquery .btn {
+	display:block;
+	float:left;
+	height:31px;
+	line-height:31px;
+	padding:0 10px;
+	background:url(../images/bgbtn.jpg) repeat-x;
+	color:#565e62;
+	font-weight:bold;
+	font-size:11px;
+	border:1px solid #e1e0df;
+	outline:none;
+}
+
+.ext_quick_contact_form_jquery .text,
+.ext_quick_contact_form_jquery .textarea {
+	padding:5px 10px;
+	height:27px;
+	border:1px solid #ddd;
+	color:#333;
+	background:url(../images/bginput.jpg) repeat-x bottom #fff;
+	position:relative;
+	z-index:2;
+}
+
+.ext_quick_contact_form_jquery .text {
+width:220px;
+}
+
+.ext_quick_contact_form_jquery .textarea {
+	height:150px;
+	width:350px;
+}
+
+.ext_quick_contact_form_jquery .blocks label {
+	float:left;
+	width:100px;
+	text-align:right;
+	margin-right:15px;
+	font-weight:bold;
+	color:#666;
+}
+
+.ext_quick_contact_form_jquery .blocks label.error,
+.ext_quick_contact_form_jquery .blocks label.ok {
+	position:absolute;
+	z-index:1;
+	top:-4px;
+	left:110px;
+	padding:5px 15px 5px 280px;
+	width:auto;
+	text-align:left;
+	margin:0;
+	background-repeat:no-repeat;
+	background-position:257px 16px;
+	line-height: 40px;
+}
+
+.ext_quick_contact_form_jquery .blocks label.ok {
+	background-image:url(../images/icook.gif);
+	background-color:#deefca;
+	color:#577530;
+}
+
+.ext_quick_contact_form_jquery .blocks label.error {
+	background-image:url(../images/icofail.gif);
+	background-color:#f5d6d7;
+	color:#c81925;
+}
+
+.ext_quick_contact_form_jquery .area label.ok,
+.ext_quick_contact_form_jquery .area label.error {
+	height:163px;
+	padding-left:410px;
+	background-position:387px 16px;
+}
+
+/* CSS3 */
+.ext_quick_contact_form_jquery .btn,
+.ext_quick_contact_form_jquery .text,
+.ext_quick_contact_form_jquery .textarea,
+.ext_quick_contact_form_jquery .blocks label.error,
+.ext_quick_contact_form_jquery .blocks label.ok { 
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+}
+
+.ext_quick_contact_form_jquery a {
+	color:#fff;
+}
+
+.ext_quick_contact_form_jquery a img {
+	border:none;
+}

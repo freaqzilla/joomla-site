@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+	<name>Content - Masters Articles Contact Form</name>
+	<author>Christopher Masters | Masters Web Solutions</author>
+	<creationDate>November 2012</creationDate>
+	<copyright>Copyright (C) 2011 - 2012 Christopher Masters DBA Masters Web Solutions. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>chris@masterswebsolutions.com</authorEmail>
+	<authorUrl>www.masterswebsolutions.com</authorUrl>
+	<version>1.0</version>
+	<description>
+	<![CDATA[
+	<style type="text/css">hr {margin: 5px !important;}</style>
+	<span style='display:block;font-weight:normal;text-align:left;margin-bottom:15px;'>
+		<span style='display:block;overflow:hidden;'>
+			<span style='display:block;float:left;margin-right:30px;'>
+				<a href='http://www.masterswebsolutions.com' title='Visit Masters Web Solutions Website!'>
+				<img src='../media/masters_articles_contact_form/images/logo.png' alt='Masters Web Solutions Logo' /></a>
+			</span>
+			<span style='display:block;float:left;'>
+				<span style='font-weight:bold;color:#004082;font-size:1.5em;'>Masters Articles Contact Form</span><br /><br />
+					<span style='font-size:13px;'>Developed by Christopher Masters</span><br /><br />
+					<span style='font-style:italic;'>If you use <strong>Masters Articles Contact Form</strong>, please post a rating<br /> and a review at the <a href='http://extensions.joomla.org/extensions/contacts-and-feedback/contact-forms/22761/review'>Joomla Extensions Directory</a>.
+				</span>
+			</span>
+		</span><br />
+		<span style='font-size:14px;font-weight:bold;color:red;'>Please remember to enable the plugin!</span><br /><br />
+		<p><strong>Masters Articles Contact Form</strong> displays a contact form from the Joomla! contact component in articles or content modules. Use either of the following to display the form...</p>
+		<ul>
+		<li>Syntax: <strong>{masterscontactform:1}</strong> - The number immediately following ":" is the contact id from the Joomla! Contact Component.</li>
+		<li>Syntax: <strong>{masterscontactform:1|122}</strong> - The number immediately following the "|" is the menu item id.</li>
+		</ul>
+		<br /><br />
+		<span style='font-size:14px;font-weight:bold;color:#004082;'>Further Information:</span><br /><br />
+		- <a href='http://www.masterswebsolutions.com/tutorials/joomla/adding-the-joomla-contact-form-to-an-article'>Tutorial</a><br />
+		- <a href="http://www.masterswebsolutions.com/joomla-extensions/faq/masters-articles-contact-form">Frequently Asked Questions</a><br />
+	</span>
+	]]>
+	</description>
+	<files>
+		<filename plugin="masters_articles_contact_form">masters_articles_contact_form.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<media destination="masters_articles_contact_form" folder="media">
+		<filename>index.html</filename>
+		<folder>images</folder>
+	</media>
+</extension>
