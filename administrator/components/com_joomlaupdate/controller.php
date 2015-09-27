@@ -57,6 +57,8 @@ class JoomlaupdateController extends JControllerLegacy
 			// Push document object into the view.
 			$view->document = $document;
 			$view->display();
+                        
+                        //some changes first-branch
 		}
 
 		return $this;
