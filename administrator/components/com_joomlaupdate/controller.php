@@ -59,6 +59,7 @@ class JoomlaupdateController extends JControllerLegacy
 			$view->display();
                         
                         //some changes first-branch
+                        //changes done on github
 		}
 
 		return $this;
